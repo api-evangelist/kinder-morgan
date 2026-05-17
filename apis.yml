@@ -7,7 +7,7 @@ description: >-
   other commodities. Kinder Morgan publishes pipeline informational postings
   and capacity data through Electronic Bulletin Board (EBB) portals; no
   public REST API or developer program has been identified at this time.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Crude Oil
