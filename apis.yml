@@ -8,7 +8,7 @@ description: >-
   and capacity data through Electronic Bulletin Board (EBB) portals; no
   public REST API or developer program has been identified at this time.
 kind: contract
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Crude Oil
   - Energy
