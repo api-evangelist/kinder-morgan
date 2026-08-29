@@ -8,6 +8,17 @@ description: >-
   and capacity data through Electronic Bulletin Board (EBB) portals; no
   public REST API or developer program has been identified at this time.
 kind: contract
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
