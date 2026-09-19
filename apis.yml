@@ -38,6 +38,14 @@ tags:
   - Midstream
   - Natural Gas
   - Pipelines
+  - Terminal
+tags_raw:
+  - Crude Oil
+  - Energy
+  - Fortune 500
+  - Midstream
+  - Natural Gas
+  - Pipelines
   - Terminals
 url: >-
   https://raw.githubusercontent.com/api-evangelist/kinder-morgan/refs/heads/main/apis.yml
