@@ -1,7 +1,9 @@
 ---
 title: Kinder Morgan Reports Second Quarter 2024 Financial ...
 url: https://ir.kindermorgan.com/news/news-details/2024/Kinder-Morgan-Reports-Second-Quarter-2024-Financial-Results/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kinder Morgan" press release artificial intelligence'
 position: 4
 source: serpapi-google

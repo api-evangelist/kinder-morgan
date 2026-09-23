@@ -1,7 +1,9 @@
 ---
 title: Kinder Morgan Sees Artificial Intelligence (AI) Driving ...
 url: https://www.barchart.com/story/news/25792032/kinder-morgan-sees-artificial-intelligence-ai-driving-growth-but-not-how-you-think
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kinder Morgan" press release artificial intelligence'
 position: 1
 source: serpapi-google

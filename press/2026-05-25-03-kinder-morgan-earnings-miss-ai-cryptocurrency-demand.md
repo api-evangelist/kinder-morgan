@@ -1,7 +1,9 @@
 ---
 title: Kinder Morgan Earnings Miss; AI, Cryptocurrency Demand ...
 url: https://www.investors.com/news/kinder-morgan-earnings-ai-cryptocurrency-demand/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kinder Morgan" press release artificial intelligence'
 position: 3
 source: serpapi-google
