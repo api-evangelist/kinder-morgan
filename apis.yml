@@ -39,6 +39,7 @@ tags:
   - Natural Gas
   - Pipelines
   - Terminal
+  - Oil and Gas
 tags_raw:
   - Crude Oil
   - Energy
@@ -47,6 +48,7 @@ tags_raw:
   - Natural Gas
   - Pipelines
   - Terminals
+  - Oil and Gas
 url: >-
   https://raw.githubusercontent.com/api-evangelist/kinder-morgan/refs/heads/main/apis.yml
 created: '2026-03-21'
